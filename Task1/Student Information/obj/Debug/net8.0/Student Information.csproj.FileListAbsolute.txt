@@ -1,0 +1,15 @@
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task1/Student Information/bin/Debug/net8.0/Student Information
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task1/Student Information/bin/Debug/net8.0/Student Information.deps.json
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task1/Student Information/bin/Debug/net8.0/Student Information.runtimeconfig.json
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task1/Student Information/bin/Debug/net8.0/Student Information.dll
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task1/Student Information/bin/Debug/net8.0/Student Information.pdb
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task1/Student Information/obj/Debug/net8.0/Student Information.GeneratedMSBuildEditorConfig.editorconfig
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task1/Student Information/obj/Debug/net8.0/Student Information.AssemblyInfoInputs.cache
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task1/Student Information/obj/Debug/net8.0/Student Information.AssemblyInfo.cs
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task1/Student Information/obj/Debug/net8.0/Student Information.csproj.CoreCompileInputs.cache
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task1/Student Information/obj/Debug/net8.0/Student Information.sourcelink.json
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task1/Student Information/obj/Debug/net8.0/Student Information.dll
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task1/Student Information/obj/Debug/net8.0/refint/Student Information.dll
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task1/Student Information/obj/Debug/net8.0/Student Information.pdb
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task1/Student Information/obj/Debug/net8.0/Student Information.genruntimeconfig.cache
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task1/Student Information/obj/Debug/net8.0/ref/Student Information.dll

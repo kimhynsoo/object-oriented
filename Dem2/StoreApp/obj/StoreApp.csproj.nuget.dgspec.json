@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/slamdunk/Documents/24-2 토마스바타/Objecte-oriented programming/Dem2/StoreApp/StoreApp.csproj": {}
+    "/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Dem2/StoreApp/StoreApp.csproj": {}
   },
   "projects": {
-    "/Users/slamdunk/Documents/24-2 토마스바타/Objecte-oriented programming/Dem2/StoreApp/StoreApp.csproj": {
+    "/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Dem2/StoreApp/StoreApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/slamdunk/Documents/24-2 토마스바타/Objecte-oriented programming/Dem2/StoreApp/StoreApp.csproj",
+        "projectUniqueName": "/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Dem2/StoreApp/StoreApp.csproj",
         "projectName": "StoreApp",
-        "projectPath": "/Users/slamdunk/Documents/24-2 토마스바타/Objecte-oriented programming/Dem2/StoreApp/StoreApp.csproj",
+        "projectPath": "/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Dem2/StoreApp/StoreApp.csproj",
         "packagesPath": "/Users/slamdunk/.nuget/packages/",
-        "outputPath": "/Users/slamdunk/Documents/24-2 토마스바타/Objecte-oriented programming/Dem2/StoreApp/obj/",
+        "outputPath": "/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Dem2/StoreApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/slamdunk/.nuget/NuGet/NuGet.Config"

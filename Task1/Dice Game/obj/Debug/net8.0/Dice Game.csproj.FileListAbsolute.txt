@@ -1,0 +1,15 @@
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task1/Dice Game/bin/Debug/net8.0/Dice Game
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task1/Dice Game/bin/Debug/net8.0/Dice Game.deps.json
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task1/Dice Game/bin/Debug/net8.0/Dice Game.runtimeconfig.json
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task1/Dice Game/bin/Debug/net8.0/Dice Game.dll
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task1/Dice Game/bin/Debug/net8.0/Dice Game.pdb
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task1/Dice Game/obj/Debug/net8.0/Dice Game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task1/Dice Game/obj/Debug/net8.0/Dice Game.AssemblyInfoInputs.cache
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task1/Dice Game/obj/Debug/net8.0/Dice Game.AssemblyInfo.cs
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task1/Dice Game/obj/Debug/net8.0/Dice Game.csproj.CoreCompileInputs.cache
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task1/Dice Game/obj/Debug/net8.0/Dice Game.sourcelink.json
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task1/Dice Game/obj/Debug/net8.0/Dice Game.dll
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task1/Dice Game/obj/Debug/net8.0/refint/Dice Game.dll
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task1/Dice Game/obj/Debug/net8.0/Dice Game.pdb
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task1/Dice Game/obj/Debug/net8.0/Dice Game.genruntimeconfig.cache
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task1/Dice Game/obj/Debug/net8.0/ref/Dice Game.dll

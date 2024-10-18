@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "..\Demo3\test\test.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreApp", "..\Dem2\StoreApp\StoreApp.csproj", "{AF26516E-DD4B-4B0E-B4F7-2C61059CDE4A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dice Game", "..\Task1\Dice Game\Dice Game.csproj", "{820AD406-BA42-4485-A05C-91933D4D434B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Student Information", "..\Task1\Student Information\Student Information.csproj", "{5969F931-D368-4A5F-B5C5-A4A6D0D5136F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +34,13 @@ Global
 		{AF26516E-DD4B-4B0E-B4F7-2C61059CDE4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF26516E-DD4B-4B0E-B4F7-2C61059CDE4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF26516E-DD4B-4B0E-B4F7-2C61059CDE4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{820AD406-BA42-4485-A05C-91933D4D434B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{820AD406-BA42-4485-A05C-91933D4D434B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{820AD406-BA42-4485-A05C-91933D4D434B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{820AD406-BA42-4485-A05C-91933D4D434B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5969F931-D368-4A5F-B5C5-A4A6D0D5136F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5969F931-D368-4A5F-B5C5-A4A6D0D5136F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5969F931-D368-4A5F-B5C5-A4A6D0D5136F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5969F931-D368-4A5F-B5C5-A4A6D0D5136F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
