@@ -1,0 +1,15 @@
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task2/Car_Info/bin/Debug/net8.0/Car_Info
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task2/Car_Info/bin/Debug/net8.0/Car_Info.deps.json
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task2/Car_Info/bin/Debug/net8.0/Car_Info.runtimeconfig.json
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task2/Car_Info/bin/Debug/net8.0/Car_Info.dll
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task2/Car_Info/bin/Debug/net8.0/Car_Info.pdb
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task2/Car_Info/obj/Debug/net8.0/Car_Info.GeneratedMSBuildEditorConfig.editorconfig
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task2/Car_Info/obj/Debug/net8.0/Car_Info.AssemblyInfoInputs.cache
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task2/Car_Info/obj/Debug/net8.0/Car_Info.AssemblyInfo.cs
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task2/Car_Info/obj/Debug/net8.0/Car_Info.csproj.CoreCompileInputs.cache
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task2/Car_Info/obj/Debug/net8.0/Car_Info.sourcelink.json
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task2/Car_Info/obj/Debug/net8.0/Car_Info.dll
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task2/Car_Info/obj/Debug/net8.0/refint/Car_Info.dll
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task2/Car_Info/obj/Debug/net8.0/Car_Info.pdb
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task2/Car_Info/obj/Debug/net8.0/Car_Info.genruntimeconfig.cache
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task2/Car_Info/obj/Debug/net8.0/ref/Car_Info.dll
