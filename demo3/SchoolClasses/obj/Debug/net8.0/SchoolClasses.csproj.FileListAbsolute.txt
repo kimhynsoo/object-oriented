@@ -1,0 +1,12 @@
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/demo3/SchoolClasses/bin/Debug/net8.0/SchoolClasses.deps.json
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/demo3/SchoolClasses/bin/Debug/net8.0/SchoolClasses.dll
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/demo3/SchoolClasses/bin/Debug/net8.0/SchoolClasses.pdb
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/demo3/SchoolClasses/obj/Debug/net8.0/SchoolClasses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/demo3/SchoolClasses/obj/Debug/net8.0/SchoolClasses.AssemblyInfoInputs.cache
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/demo3/SchoolClasses/obj/Debug/net8.0/SchoolClasses.AssemblyInfo.cs
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/demo3/SchoolClasses/obj/Debug/net8.0/SchoolClasses.csproj.CoreCompileInputs.cache
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/demo3/SchoolClasses/obj/Debug/net8.0/SchoolClasses.sourcelink.json
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/demo3/SchoolClasses/obj/Debug/net8.0/SchoolClasses.dll
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/demo3/SchoolClasses/obj/Debug/net8.0/refint/SchoolClasses.dll
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/demo3/SchoolClasses/obj/Debug/net8.0/SchoolClasses.pdb
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/demo3/SchoolClasses/obj/Debug/net8.0/ref/SchoolClasses.dll

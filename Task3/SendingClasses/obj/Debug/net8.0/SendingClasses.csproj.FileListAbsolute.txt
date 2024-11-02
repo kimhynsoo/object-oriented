@@ -1,0 +1,12 @@
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task3/SendingClasses/bin/Debug/net8.0/SendingClasses.deps.json
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task3/SendingClasses/bin/Debug/net8.0/SendingClasses.dll
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task3/SendingClasses/bin/Debug/net8.0/SendingClasses.pdb
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task3/SendingClasses/obj/Debug/net8.0/SendingClasses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task3/SendingClasses/obj/Debug/net8.0/SendingClasses.AssemblyInfoInputs.cache
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task3/SendingClasses/obj/Debug/net8.0/SendingClasses.AssemblyInfo.cs
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task3/SendingClasses/obj/Debug/net8.0/SendingClasses.csproj.CoreCompileInputs.cache
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task3/SendingClasses/obj/Debug/net8.0/SendingClasses.sourcelink.json
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task3/SendingClasses/obj/Debug/net8.0/SendingClasses.dll
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task3/SendingClasses/obj/Debug/net8.0/refint/SendingClasses.dll
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task3/SendingClasses/obj/Debug/net8.0/SendingClasses.pdb
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task3/SendingClasses/obj/Debug/net8.0/ref/SendingClasses.dll
