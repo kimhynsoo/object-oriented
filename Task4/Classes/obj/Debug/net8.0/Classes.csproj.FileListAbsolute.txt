@@ -1,0 +1,12 @@
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task4/Classes/bin/Debug/net8.0/Classes.dll
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task4/Classes/bin/Debug/net8.0/Classes.pdb
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task4/Classes/obj/Debug/net8.0/Classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task4/Classes/obj/Debug/net8.0/Classes.AssemblyInfoInputs.cache
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task4/Classes/obj/Debug/net8.0/Classes.AssemblyInfo.cs
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task4/Classes/obj/Debug/net8.0/Classes.csproj.CoreCompileInputs.cache
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task4/Classes/obj/Debug/net8.0/Classes.sourcelink.json
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task4/Classes/obj/Debug/net8.0/Classes.dll
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task4/Classes/obj/Debug/net8.0/refint/Classes.dll
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task4/Classes/obj/Debug/net8.0/Classes.pdb
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task4/Classes/bin/Debug/net8.0/Classes.deps.json
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task4/Classes/obj/Debug/net8.0/ref/Classes.dll
