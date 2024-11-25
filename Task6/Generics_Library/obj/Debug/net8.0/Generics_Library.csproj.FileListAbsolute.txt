@@ -1,0 +1,13 @@
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task6/Generics_Library/bin/Debug/net8.0/Generics_Library.deps.json
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task6/Generics_Library/bin/Debug/net8.0/Generics_Library.dll
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task6/Generics_Library/bin/Debug/net8.0/Generics_Library.pdb
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task6/Generics_Library/obj/Debug/net8.0/Generics_Library.csproj.AssemblyReference.cache
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task6/Generics_Library/obj/Debug/net8.0/Generics_Library.GeneratedMSBuildEditorConfig.editorconfig
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task6/Generics_Library/obj/Debug/net8.0/Generics_Library.AssemblyInfoInputs.cache
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task6/Generics_Library/obj/Debug/net8.0/Generics_Library.AssemblyInfo.cs
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task6/Generics_Library/obj/Debug/net8.0/Generics_Library.csproj.CoreCompileInputs.cache
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task6/Generics_Library/obj/Debug/net8.0/Generics_Library.sourcelink.json
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task6/Generics_Library/obj/Debug/net8.0/Generics_Library.dll
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task6/Generics_Library/obj/Debug/net8.0/refint/Generics_Library.dll
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task6/Generics_Library/obj/Debug/net8.0/Generics_Library.pdb
+/Users/slamdunk/Documents/24-2 토마스바타/Object-oriented programming/Task6/Generics_Library/obj/Debug/net8.0/ref/Generics_Library.dll
