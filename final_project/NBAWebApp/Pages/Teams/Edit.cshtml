@@ -1,0 +1,30 @@
+@page
+@model EditModel
+
+<h2>Edit Team</h2>
+
+<form method="post">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <div class="form-group">
+        <label asp-for="team.teamid"></label>
+        <input asp-for="team.teamid" class="form-control" readonly />
+        <span class="text-danger" asp-validation-for="team.teamid"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="team.teamname"></label>
+        <input asp-for="team.teamname" class="form-control" required />
+        <span class="text-danger" asp-validation-for="team.teamname"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="team.city"></label>
+        <input asp-for="team.city" class="form-control" required />
+        <span class="text-danger" asp-validation-for="team.city"></span>
+    </div>
+    
+    <button type="submit" class="btn btn-primary">Save Changes</button>
+    <a asp-page="/Teams/Index" class="btn btn-secondary">Back to List</a> 
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

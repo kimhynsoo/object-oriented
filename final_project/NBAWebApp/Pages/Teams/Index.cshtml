@@ -1,0 +1,40 @@
+@page
+@model IndexModel
+
+<h2>Teams</h2>
+
+<form method="get">
+    <div class="form-group">
+        <input type="text" name="searchString" value="@Model.SearchString" placeholder="Search by Team Name" class="form-control" />
+        <button type="submit" class="btn btn-primary">Search</button>
+    </div>
+</form>
+<div style="margin-top: 20px;">
+    <a asp-page="NewDetail" class="btn btn-primary">New</a>
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                <a asp-page="./Index" asp-route-sortOrder="teamid">Team ID</a>
+            </th>
+            <th>
+                <a asp-page="./Index" asp-route-sortOrder="teamname">Team Name</a>
+            </th>
+            <th>
+                <a asp-page="./Index" asp-route-sortOrder="city">City</a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var team in Model.Teams)
+        {
+            <tr onclick="location.href='@Url.Page("/Teams/Details", new { id = team.teamid })'" style="cursor:pointer;">
+                <td>@team.teamid</td>
+                <td>@team.teamname</td>
+                <td>@team.city</td>
+            </tr>
+        }
+    </tbody>
+</table>

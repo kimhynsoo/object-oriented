@@ -1,0 +1,25 @@
+@page
+@model DeleteModel
+
+<h2>Delete Team</h2>
+
+<div>
+    <h4>Team</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">Team ID</dt>
+        <dd class="col-sm-10">@Model.team.teamid</dd>
+
+        <dt class="col-sm-2">Team Name</dt>
+        <dd class="col-sm-10">@Model.team.teamname</dd>
+
+        <dt class="col-sm-2">City</dt>
+        <dd class="col-sm-10">@Model.team.city</dd>
+    </dl>
+</div>
+
+<form method="post">
+    <input type="hidden" asp-for="team.teamid" />
+    <button type="submit" class="btn btn-danger">Delete</button>
+    <a asp-page="/Teams/Index" class="btn btn-secondary">Cancel</a>
+</form>
